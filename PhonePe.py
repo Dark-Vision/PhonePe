@@ -851,7 +851,7 @@ elif select == "Top Charts":
         st.subheader("TRANSACTION AMOUNT")
         top_chart_TA("map_insurance_hover")
         st.subheader("TRANSACTION COUNT")
-        top_chart_TC("map_insurance_hoverj")                
+        top_chart_TC("map_insurance_hover")                
 
     elif queries == "3. Transaction Amount and Count of Top Insurance" :
        st.subheader("TRANSACTION AMOUNT")
